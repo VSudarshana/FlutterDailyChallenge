@@ -1,32 +1,16 @@
-# Flutter Daily Challenge
+This repository contains my daily coding practice for Flutter development, from beginner to advanced topics. I am a beginner myself, so this is a journey of learning and growth together.
 
-Welcome to the **Flutter Daily Challenge** repository! This is a project aimed at helping beginners and intermediate developers improve their Flutter skills through daily coding challenges. Whether you're just starting with Flutter or looking to enhance your expertise, this challenge is for you!
+##Motivation
 
-## How It Works
+Flutter is a popular cross-platform development framework for building mobile, web, and desktop applications with a single codebase. It is easy to learn and use, but it can be challenging to master.
 
-Every day, a new Flutter challenge will be posted in the [Issues](https://github.com/VSudarshana/FlutterDailyChallenge/issues) section. Challenges will vary in difficulty and cover a wide range of Flutter topics, including UI design, state management, animations, and more. Your task is to solve the challenge by writing Flutter code and submit your solution via a pull request.
+I started this daily coding practice to improve my Flutter skills and to build a portfolio of projects. I also hope to inspire other beginner Flutter developers to join me on this journey.
 
-## Getting Started
+##How to contribute
 
-1. **Fork this repository:** Click the "Fork" button in the top right corner to create your own copy of this repository.
+If you are interested in contributing to this repository, please feel free to fork it and create your own branch. You can then submit pull requests with your changes.
 
-2. **Clone your fork:** Clone the repository to your local machine using `git clone https://github.com/VSudarshana/FlutterDailyChallenge.git`.
-
-3. **Stay updated:** Watch this repository to receive notifications about new challenges and updates.
-
-4. **Solve the challenges:** Check the [Issues](https://github.com/VSudarshana/FlutterDailyChallenge/issues) tab daily for new challenges. Create a new branch for each challenge and submit your solution via a pull request.
-
-5. **Review and discuss:** Participate in discussions, review others' solutions, and learn from the community. Constructive feedback is encouraged!
-
-## Guidelines
-
-- **Code quality:** Write clean, readable, and efficient code. Follow Flutter's best practices and guidelines.
-
-- **Comments and documentation:** Document your code appropriately. Explain complex parts, so others can learn from your solution.
-
-- **Originality:** Try to solve the challenges on your own. While you can seek help online, avoid copying solutions directly.
-
-- **Be respectful:** Respect fellow developers. Provide positive and constructive feedback.
+Please note that this is a beginner-friendly repository, so I am open to all levels of contributions. If you have any questions or feedback, please do not hesitate to create an issue.
 
 ## Resources
 
